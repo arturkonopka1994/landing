@@ -1,0 +1,25 @@
+.footer {
+  text-align: center;
+  padding: 64px;
+  background-color: #2c2b2b;
+  transition: 0.2s
+}
+
+.footer a {
+  font-size: 24px;
+  color: #1edd88;
+}
+
+.footer p {
+  color: darkgrey;
+  font-weight: lighter;
+}
+
+.footer .fas {
+  color:#ff0d11;
+}
+
+.footer .social-media .fab:hover{
+  /* color: #000000; */
+  color:  #168553;
+}

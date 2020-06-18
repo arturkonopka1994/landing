@@ -1,0 +1,19 @@
+.card img{
+  height: 80px;
+}
+
+.card p {
+  opacity: 0.7;
+}
+
+.card {
+  width: 192px;
+  border-radius: 2px;
+  box-shadow: 0 0 7px rgba(240, 240, 240, 0.7);
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
